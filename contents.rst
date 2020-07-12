@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-向明养儿日志
-============================================
+目录
+==================
 
 .. toctree::
    :maxdepth: 2
@@ -14,4 +14,3 @@
 
    README
    raisingsons
-   contents
